@@ -9,9 +9,7 @@ Kalman Filter, an artificial intelligence technology, has been widely applied in
 
 
 
-Lets skip the first paragraph and look at a little story.
-
-{% blockquote [Kalman Filter: Theories and Applications](http://blog.csdn.net/heyijia0327/article/details/17487467)%}
+Lets skip the first paragraph and look at a little story (story source: [Kalman Filter: Theories and Applications](http://blog.csdn.net/heyijia0327/article/details/17487467))
 
 A group of young men were standing, under their feet there was a twisty narrow road to a very big tree. One man walked to the tree, asking, "can any of you walk to the tree with your eyes closed?" 
 
@@ -23,7 +21,8 @@ A group of young men were standing, under their feet there was a twisty narrow r
 
 After reaching the tree, he smiled and told everyone, "I am Kalman."
 
-{% endblockquote %}
+
+
 
 
 
