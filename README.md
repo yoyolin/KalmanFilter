@@ -1,14 +1,5 @@
 # KalmanFilter
 
----
-title: Kalman Filtier and Dynamic RoI
-date: 2017-03-20 21:40:29
-tags: 
-- Kalman Filter
-- RoI
-category: 时习之
-description: 回忆总结当年折磨我千百遍的Kalman Filter
----
 
 
 
